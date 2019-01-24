@@ -1,0 +1,24 @@
+commit 9e6c118cbbeeee11a989d1f318fdf2802718e3b0 (HEAD -> master)
+Author: IrisZimmermann <IrisZimmermann@advisori.de>
+Date:   Tue Jan 15 11:32:25 2019 +0100
+
+    added gitignore
+
+commit 6663528aaf3ab7970060b954e141898a710ddb46
+Author: IrisZimmermann <IrisZimmermann@advisori.de>
+Date:   Tue Jan 15 11:24:53 2019 +0100
+
+    added text to readme.txt
+
+commit 906e3f2c5ba18e0b245636e222df1591bb8b55d6
+Author: IrisZimmermann <IrisZimmermann@advisori.de>
+Date:   Tue Jan 15 11:19:13 2019 +0100
+
+    added two new files
+
+commit 086c9dcd80b39a253f932a519e39902b28f5445c
+Author: IrisZimmermann <IrisZimmermann@advisori.de>
+Date:   Tue Jan 15 11:12:58 2019 +0100
+
+    created file
+
